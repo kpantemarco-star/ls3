@@ -1,0 +1,8 @@
+Kolibri;Le;Vauclin;1;3245
+Fwomajé;Trinité;2;3251
+Zandoli;Le;Robert;3;3260
+Madinina;Fort-de-France;4;3302
+Bèlè;Sainte-Anne;5;3318
+Manman;Dlo;Sainte-Marie;6;3340
+Ti-Kanno;Le;François;7;3401
+Soleil;Levan;Le;Diamant;8;3455
